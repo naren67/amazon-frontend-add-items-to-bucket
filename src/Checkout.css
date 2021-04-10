@@ -1,0 +1,21 @@
+.checkout {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.checkout__lists {
+  font-size: 30px;
+  border-bottom: 2px solid gainsboro;
+}
+
+.checkout__left {
+  width: 75%;
+}
+
+.checkout__left img {
+  width: 100%;
+  height: max-content;
+  margin-bottom: 20px;
+}
